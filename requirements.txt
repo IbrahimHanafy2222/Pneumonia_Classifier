@@ -1,5 +1,5 @@
+flask
+gunicorn
 numpy
-opencv-python-headless  <-- Use this, NOT 'opencv-python'
-# Add your ML library (pick one and keep it lightweight if possible):
-# tensorflow-cpu        <-- If using TF, use CPU version to save RAM
-# torch --extra-index-url https://download.pytorch.org/whl/cpu  <-- If using PyTorch
+opencv-python-headless
+tensorflow-cpu
