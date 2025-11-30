@@ -93,14 +93,14 @@ The application will start at [http://127.0.0.1:5000](http://127.0.0.1:5000).
 
 ## 👥 The Team
 
-| Name                  | Role              | Contact                                                                     |
-| --------------------- | ----------------- | --------------------------------------------------------------------------- |
-| Ibrahim Hanafy        | Lead Developer    | [ibrahim.hanafy@zewailcity.edu.eg](mailto:ibrahim.hanafy@zewailcity.edu.eg) |
-| Ali Elsayed           | AI Engineer       | [alimohammedelsayed05@gmail.com](mailto:alimohammedelsayed05@gmail.com)     |
-| Omar Elbanna          | Frontend Designer | [Omar.essam10@msa.edu.eg](mailto:Omar.essam10@msa.edu.eg)                   |
-| Ramez Mohamed         | Data Scientist    | [ramezm029@gmail.com](mailto:ramezm029@gmail.com)                           |
-| Abdellatif El Batrawy | Researcher        | [abdellatifelbatrawy@gmail.com](mailto:abdellatifelbatrawy@gmail.com)       |
-| Amr Ghoneim           | Documentation     | [Amrlghonim24@gmail.com](mailto:Amrlghonim24@gmail.com)                     |
+| Name                  | Contact                                                                     |
+| --------------------- | --------------------------------------------------------------------------- |
+| Ibrahim Hanafy        | [ibrahim.hanafy@zewailcity.edu.eg](mailto:ibrahim.hanafy@zewailcity.edu.eg) |
+| Ali Elsayed           | [alimohammedelsayed05@gmail.com](mailto:alimohammedelsayed05@gmail.com)     |
+| Omar Elbanna          | [Omar.essam10@msa.edu.eg](mailto:Omar.essam10@msa.edu.eg)                   |
+| Ramez Mohamed         | [ramezm029@gmail.com](mailto:ramezm029@gmail.com)                           |
+| Abdellatif El Batrawy | [abdellatifelbatrawy@gmail.com](mailto:abdellatifelbatrawy@gmail.com)       |
+| Amr Ghoneim           | [Amrlghonim24@gmail.com](mailto:Amrlghonim24@gmail.com)                     |
 
 ## ⚠️ Disclaimer
 
